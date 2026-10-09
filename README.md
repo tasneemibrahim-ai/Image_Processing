@@ -127,3 +127,9 @@ For an in-depth explanation of the Watershed algorithm, see the notebook in [`no
 ## 📄 License
 
 This project is open-source. Feel free to use and modify it for educational purposes.
+
+---
+
+## Author
+
+Tasneem Ibrahim - Rana Hossam - Alaa Ibrahim - Ahmed Sweed
