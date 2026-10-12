@@ -1,0 +1,16 @@
+.venv/
+.venv_py312/
+.venv_test/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+*.rar
+__pycache__/
+.venv*/
+venv*/
+.vscode/
+.idea/
